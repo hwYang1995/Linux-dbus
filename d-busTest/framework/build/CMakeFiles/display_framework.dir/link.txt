@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/display_framework.dir/src/main.c.o CMakeFiles/display_framework.dir/src/display_manager.c.o -o display_framework   -L/home/xbd/Desktop/selfTest/bsp/linux/d-busTest/framework/../../commonsdk/lib  -Wl,-rpath,/home/xbd/Desktop/selfTest/bsp/linux/d-busTest/framework/../../commonsdk/lib ../../../commonsdk/lib/libdbus_wrapper.a -lscreen_bsp -ldbus-1 

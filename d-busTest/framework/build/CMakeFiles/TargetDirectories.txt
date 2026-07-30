@@ -1,0 +1,3 @@
+/home/xbd/Desktop/selfTest/bsp/linux/d-busTest/framework/build/CMakeFiles/display_framework.dir
+/home/xbd/Desktop/selfTest/bsp/linux/d-busTest/framework/build/CMakeFiles/edit_cache.dir
+/home/xbd/Desktop/selfTest/bsp/linux/d-busTest/framework/build/CMakeFiles/rebuild_cache.dir
